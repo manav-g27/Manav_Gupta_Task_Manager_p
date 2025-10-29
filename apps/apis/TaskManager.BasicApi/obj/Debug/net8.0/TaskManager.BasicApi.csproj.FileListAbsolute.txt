@@ -48,3 +48,4 @@
 /Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.pdb
 /Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.genruntimeconfig.cache
 /Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/ref/TaskManager.BasicApi.dll
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.sourcelink.json
