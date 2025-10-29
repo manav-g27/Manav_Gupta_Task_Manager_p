@@ -62,10 +62,10 @@ dotnet run --no-restore
 
 You should see output like:
 
-Now listening on: http://localhost:5207
+Now listening on: http://localhost:6207
 
 Keep this terminal open.
-This runs your backend API at http://localhost:5207
+This runs your backend API at http://localhost:6207
 
 💻 Step 3: Run the Frontend (React App)
 
@@ -79,7 +79,7 @@ npm install
 
 In .env.local file set following variable to the address given by the server ->
 
-VITE_API_URL=http://localhost:5207 
+VITE_API_URL=http://localhost:6207 
 
 4️⃣ Start the development server:
 npm run dev
