@@ -75,8 +75,11 @@ cd apps/task-manager-basic
 2️⃣ Install dependencies:
 npm install
 
-3️⃣ Create an environment file to connect frontend → backend:
-echo VITE_API_URL=http://localhost:5207 > .env.local
+3️⃣ Connect frontend → backend:
+
+In .env.local file set following variable to the address given by the server ->
+
+VITE_API_URL=http://localhost:5207 
 
 4️⃣ Start the development server:
 npm run dev
