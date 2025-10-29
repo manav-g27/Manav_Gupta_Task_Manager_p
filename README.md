@@ -10,8 +10,8 @@ Perfect for learning full-stack development, CRUD operations, and API integratio
 
 ## 🚀 Live Demo
 
-- **Frontend (Netlify):** mellow-bunny-e08687.netlify.app (#)
-- **Backend (Render):** https://manav-gupta-task-manager.onrender.com (#)
+- **Frontend (Netlify):** mellow-bunny-e08687.netlify.app 
+- **Backend (Render):** https://manav-gupta-task-manager.onrender.com 
 
 ---
 
