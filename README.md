@@ -80,16 +80,6 @@ npm run dev
 Now open your browser and visit:
 👉 http://localhost:5173
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1gB3y5g3GPV6cogqqhVNDHEW2qGjEM7y6/view?usp=drive_link" alt="Task Manager Screenshot" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://drive.google.com/file/d/1IFoRl2RpfMqufsbnK0ZdPrlSvkeW4kjP/view?usp=drive_link" width="700"/>
-</p>
-
-<p align="center">
-  <img src="https://drive.google.com/file/d/1_xrVvT-W6OE7VCj6foV3lE3Aa2i9K2Z7/view?usp=drive_link" alt="Task Manager Screenshot" width="700"/>
-</p>
+Screenshots : https://drive.google.com/drive/folders/1ZAwUsUIetDsIbWIQu00IuIB6tkQkz_Yf?usp=drive_link
 
 
