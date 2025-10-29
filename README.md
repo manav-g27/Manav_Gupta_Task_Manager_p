@@ -42,11 +42,11 @@ Perfect for learning full-stack development, CRUD operations, and API integratio
 
 ### 1️⃣ Clone the Repository
 git clone https://github.com/manav-g27/Manav_Gupta_Task_Manager_
-cd MANAV_GUPTA_TASK_MANAGER
-
 ---
 
 ## How to run
+
+Extract and open the folder
 
 ⚙️ Step 2: Run the Backend (API)
 1️⃣ Navigate to the API directory:
