@@ -1,0 +1,50 @@
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.staticwebassets.endpoints.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.deps.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.runtimeconfig.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.dll
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.pdb
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.AssemblyInfoInputs.cache
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.AssemblyInfo.cs
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.csproj.CoreCompileInputs.cache
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/scopedcss/bundle/TaskManager.BasicApi.styles.css
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.dll
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/refint/TaskManager.BasicApi.dll
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.pdb
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.genruntimeconfig.cache
+/Users/manavgupta/Downloads/plc-assignments (1)/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/ref/TaskManager.BasicApi.dll
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.staticwebassets.endpoints.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.deps.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.runtimeconfig.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.dll
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/bin/Debug/net8.0/TaskManager.BasicApi.pdb
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.AssemblyInfoInputs.cache
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.AssemblyInfo.cs
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.csproj.CoreCompileInputs.cache
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.MvcApplicationPartsAssemblyInfo.cache
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/scopedcss/bundle/TaskManager.BasicApi.styles.css
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/staticwebassets.build.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/staticwebassets.development.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.dll
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/refint/TaskManager.BasicApi.dll
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.pdb
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/TaskManager.BasicApi.genruntimeconfig.cache
+/Users/manavgupta/Desktop/task_manager/apps/apis/TaskManager.BasicApi/obj/Debug/net8.0/ref/TaskManager.BasicApi.dll
