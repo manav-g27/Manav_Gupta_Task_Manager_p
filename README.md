@@ -41,7 +41,7 @@ Perfect for learning full-stack development, CRUD operations, and API integratio
 ## 🛠️ Local Setup
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/manav-g27/Manav_Gupta_Task_Manager_
+git clone https://github.com/manav-g27/Manav_Gupta_Task_Manager_p
 ---
 
 ## How to run
