@@ -49,11 +49,14 @@ git clone https://github.com/manav-g27/Manav_Gupta_Task_Manager_p
 Extract and open the folder
 
 ⚙️ Step 2: Run the Backend (API)
+
 1️⃣ Navigate to the API directory:
 cd apps/apis/TaskManager.BasicApi
 
 2️⃣ Restore and run the API:
+
 dotnet restore
+
 dotnet run --no-restore
 
 
@@ -65,6 +68,7 @@ Keep this terminal open.
 This runs your backend API at http://localhost:5207
 
 💻 Step 3: Run the Frontend (React App)
+
 1️⃣ Open a new terminal window and go to:
 cd apps/task-manager-basic
 
