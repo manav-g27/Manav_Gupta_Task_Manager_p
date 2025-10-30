@@ -1,5 +1,7 @@
 # 📝 Task Manager App
 
+**Please wait and try 2-3 times after a minute as backend is hosted on render free tier and it may take some time to become active due to no frequent use**
+
 A minimal yet beautifully designed **Task Management App** built using  
 **React + TypeScript + Vite + Tailwind CSS** (frontend) and a **.NET 8 Minimal API** (backend).
 
